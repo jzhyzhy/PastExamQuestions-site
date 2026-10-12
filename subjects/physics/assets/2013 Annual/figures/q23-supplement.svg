@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="470" viewBox="0 0 420 470" role="img" aria-labelledby="title desc">
+<title id="title">Supplementary diffraction illustration — not original Figure 29</title>
+<desc id="desc">Illustrative concentric diffraction rings with a central spot. Ring positions and intensities are schematic and are not measurements or a reconstruction of the missing original.</desc>
+<rect width="420" height="470" rx="16" fill="#f2f7f8"/>
+<text x="210" y="36" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#173549">Diffraction pattern · schematic</text>
+<rect x="30" y="60" width="360" height="340" rx="10" fill="#111d2b"/>
+<g transform="translate(210 230)" fill="none" stroke="#d5ebf1">
+<circle r="52" stroke-width="4" opacity=".85"/><circle r="86" stroke-width="3" opacity=".65"/>
+<circle r="114" stroke-width="3" opacity=".8"/><circle r="140" stroke-width="2.5" opacity=".5"/>
+<circle r="7" fill="#f7fcff" stroke="none"/>
+</g>
+<text x="210" y="432" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#173549">Supplementary illustration</text>
+<text x="210" y="456" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#94601d">NOT the original Figure 29</text></svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="520" height="220" preserveAspectRatio="xMinYMin meet" viewBox="0 0 520 220" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="520" height="220"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-220)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 80,135 L 136,135 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<rect x="136.0" y="127" width="48.0" height="16" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7; fill: none; fill-rule: evenodd;"/>
+			<path d="M 184,135 L 240,135 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="130.0" y="154" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,308) scale(1,-1)">100 Ω</text>
+			<path d="M 380,185 L 380,141 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 365,141 L 395,141 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 372,129 L 388,129 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 380,129 L 380,85 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="341" y="160.0" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,320) scale(1,-1)">+</text>
+			<text x="334" y="111.0" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,222) scale(1,-1)">Battery</text>
+			<text x="70" y="48" style="font-family: Arial; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,96) scale(1,-1)">Use these circuit symbols. Connecting wires are ideal.</text>
+		</g>
+	</g>
+</svg>

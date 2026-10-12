@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="520" height="220" preserveAspectRatio="xMinYMin meet" viewBox="0 0 520 220" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="520" height="220"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-220)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 65,175 L 65,108.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 50,108.5 L 80,108.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 57,96.5 L 73,96.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 65,96.5 L 65,30 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="26" y="127.5" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,255) scale(1,-1)">+</text>
+			<text x="19" y="78.5" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,157) scale(1,-1)">9 V</text>
+			<path d="M 65,175 L 123.5,175 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<rect x="123.5" y="167" width="48.0" height="16" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7; fill: none; fill-rule: evenodd;"/>
+			<path d="M 171.5,175 L 230,175 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="117.5" y="194" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,388) scale(1,-1)">900 Ω</text>
+			<path d="M 230,175 L 455,175 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 65,30 L 455,30 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 285,175 L 285,124.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<rect x="277" y="80.5" width="16" height="44.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7; fill: none; fill-rule: evenodd;"/>
+			<path d="M 285,80.5 L 285,30 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="301" y="102.5" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,205) scale(1,-1)">900 Ω</text>
+			<path d="M 445,175 L 445,124.5 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<rect x="437" y="80.5" width="16" height="44.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7; fill: none; fill-rule: evenodd;"/>
+			<path d="M 445,80.5 L 445,30 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="461" y="102.5" style="font-family: Arial; font-size: 12px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,205) scale(1,-1)">900 Ω</text>
+		</g>
+	</g>
+</svg>
